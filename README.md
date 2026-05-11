@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Asadullah Samoon
 
-I'm a passionate **Full Stack Developer & AI Enthusiast** with expertise in **React, TypeScript, Node.js, SQL & NoSQL databases, and AWS**. I also specialize in **Agentic AI tools** such as Augment Codem, Kiro, Warp, and Cursor, and have a solid grasp of AI concepts and their latest developments.  
+I'm a passionate **Full Stack Developer & AI Enthusiast** with expertise in **React, TypeScript, Node.js, Python, SQL & NoSQL databases, and AWS**. I also specialize in **Agentic AI tools** such as Augment Codem, Kiro, Warp, and Cursor, and have a solid grasp of AI concepts and their latest developments.  
 
 📚 **Education & Achievements:**  
 - 🎓 Offer holder for **3 UK universities** to pursue **M.Sc. Artificial Intelligence** starting September 2026  
