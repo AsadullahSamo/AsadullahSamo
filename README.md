@@ -53,7 +53,7 @@ Building scalable web applications and exploring the future of Agentic AI system
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asadullah%20Samoon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadullah-samoon/)
+[LinkedIn](https://www.linkedin.com/in/asadullah-samoon/)
 
 ---
 
