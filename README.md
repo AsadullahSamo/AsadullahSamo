@@ -1,113 +1,61 @@
-# Hi there 👋 I'm Asadullah Samoon
+# Hi 👋 I'm Asadullah Samoon
 
-### 🚀 Full Stack Developer | AI Enthusiast | Future AI Engineer
+### Full Stack Developer • AI Enthusiast • Future AI Engineer
 
-I'm a passionate developer focused on building modern full-stack applications and AI-powered solutions.  
-I enjoy working with scalable web technologies, cloud infrastructure, and emerging Agentic AI ecosystems.
-
----
-
-## 🧠 About Me
-
-- 💻 Full Stack Developer specializing in:
-  - React.js
-  - TypeScript
-  - Node.js
-  - Python
-  - SQL & NoSQL Databases
-  - AWS Cloud Services
-
-- 🤖 Exploring:
-  - Agentic AI Frameworks
-  - LLM Applications
-  - Autonomous AI Agents
-  - AI-powered Developer Tools
-
-- 🛠 Experienced with AI tools like:
-  - Cursor
-  - Warp
-  - Kiro
-  - Augment Code
-
-- 🌱 Currently building:
-  - AI-driven applications
-  - Modern SaaS platforms
-  - Scalable backend systems
-
-- 👯 Open to:
-  - Hackathons
-  - Open-source collaboration
-  - AI & Full Stack projects
+Building scalable web applications and exploring the future of Agentic AI systems.
 
 ---
 
-## 🎓 Education & Achievements
+## 🚀 About Me
 
-- 🎓 Offer holder from **3 UK Universities**
-  - M.Sc. Artificial Intelligence (Starting September 2026)
-
-- 🏅 IELTS Overall Band Score: **7.5**
-  - Test Date: Feb 09, 2026
+- ⚡ Full Stack Developer focused on scalable and modern web technologies
+- 🤖 Exploring Agentic AI, LLM workflows, autonomous agents & AI tooling
+- 🧠 Passionate about AI-powered developer experiences and cloud architecture
+- 🎓 Incoming M.Sc. Artificial Intelligence student in the UK (Sept 2026)
+- 🏆 IELTS Overall Band Score: **7.5**
+- 🤝 Open to collaborations, hackathons & AI-driven projects
 
 ---
 
-## 💬 Ask Me About
+## 🛠 Tech Stack
 
-```txt
-AI • Full Stack Development • Cloud Architecture • LLMs • Agentic AI
-````
+### Languages & Frameworks
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+
+### Databases & Cloud
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+
+### AI & Developer Tools
+
+`Cursor` • `Warp` • `Kiro` • `Augment Code`
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsadullahSamo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsadullahSamo&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AsadullahSamo&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asadullah%20Samoon-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/asadullah-samoon-212680266/)
+[![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/asadullah-samoon/?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadullah-samoon-212680266/)
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsadullahSamo&show_icons=true&theme=tokyonight&count_private=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadullahSamo&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AsadullahSamo&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🛠 Tech Stack
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
-
-### Cloud & Tools
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-
----
-
-# ⚡ Fun Fact
-
-I love combining AI with full-stack engineering to create intelligent, scalable, and impactful applications.
-
-```
+> Building intelligent systems with modern web technologies.
 ```
