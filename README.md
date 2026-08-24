@@ -3,7 +3,7 @@
 I'm a passionate **Full Stack Developer & AI Enthusiast** with expertise in **React, TypeScript, Node.js, Python, SQL & NoSQL databases, and AWS**. I also specialize in **Agentic AI tools** such as Augment Codem, Kiro, Warp, and Cursor, and have a solid grasp of AI concepts and their latest developments.  
 
 📚 **Education & Achievements:**  
-- 🎓 Offer holder for **2 european universities** to pursue **M.Sc. Artificial Intelligence** starting September 2026  
+- 🎓 B.E in **Software Engineering**
 - 🏅 IELTS Overall Band Score: **7.5** (Feb 09, 2026)  
 
 💡 **Interests & Focus:**  
